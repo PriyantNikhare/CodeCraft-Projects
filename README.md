@@ -7,19 +7,19 @@ This repository contains a collection of projects completed as part of the **Cod
 1. **Reverse a Stack**
    - **Description**: This project reverses a stack of integers using only stack operations (push and pop). No additional data structures are used.
    - **Implementation**: The stack is reversed through recursive or iterative stack operations.
-   - **Languages Used**: Python/JavaScript/Java (Choose as per implementation).
+   - **Languages Used**: Java.
    - **File**: [ReverseStack.java](./ReverseStack.java)
 
 2. **Three Sum Problem**
    - **Description**: Finds all unique triplets in an array of integers that sum to zero.
    - **Implementation**: Utilizes sorting and a two-pointer approach to find unique triplets.
-   - **Languages Used**: Python/JavaScript/Java (Choose as per implementation).
+   - **Languages Used**: Java.
    - **File**: [ThreeSum.java](./ThreeSum.java)
 
 3. **Depth-First Search (DFS)**
    - **Description**: Implements DFS traversal for a graph represented by an adjacency list. The traversal starts from a given vertex and visits all connected vertices.
    - **Implementation**: A recursive approach to visit nodes in depth-first order.
-   - **Languages Used**: Python/JavaScript/Java (Choose as per implementation).
+   - **Languages Used**: Java.
    - **File**: [DFS.java](./DFS.java)
 
 4. **Simple Website**
