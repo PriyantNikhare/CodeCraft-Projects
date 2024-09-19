@@ -14,7 +14,7 @@ This repository contains a collection of projects completed as part of the **Cod
    - **Description**: Finds all unique triplets in an array of integers that sum to zero.
    - **Implementation**: Utilizes sorting and a two-pointer approach to find unique triplets.
    - **Languages Used**: Python/JavaScript/Java (Choose as per implementation).
-   - **File**: [ReverseStack.java](./ReverseStack.java)
+   - **File**: [ThreeSum.java](./ThreeSum.java)
 
 3. **Depth-First Search (DFS)**
    - **Description**: Implements DFS traversal for a graph represented by an adjacency list. The traversal starts from a given vertex and visits all connected vertices.
